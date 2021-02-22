@@ -1,0 +1,6 @@
+C:\ozow\String-sort-master\String-sort-master\StringSort\bin\Debug\StringSort.exe.config
+C:\ozow\String-sort-master\String-sort-master\StringSort\bin\Debug\StringSort.exe
+C:\ozow\String-sort-master\String-sort-master\StringSort\bin\Debug\StringSort.pdb
+C:\ozow\String-sort-master\String-sort-master\StringSort\obj\Debug\StringToSort.csprojAssemblyReference.cache
+C:\ozow\String-sort-master\String-sort-master\StringSort\obj\Debug\StringSort.exe
+C:\ozow\String-sort-master\String-sort-master\StringSort\obj\Debug\StringSort.pdb

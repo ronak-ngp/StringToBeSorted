@@ -1,0 +1,6 @@
+C:\Users\Pooja\source\repos\StringSort\StringSort\obj\Debug\StringSort.csproj.CoreCompileInputs.cache
+C:\Users\Pooja\source\repos\StringSort\StringSort\bin\Debug\StringSort.exe.config
+C:\Users\Pooja\source\repos\StringSort\StringSort\bin\Debug\StringSort.exe
+C:\Users\Pooja\source\repos\StringSort\StringSort\bin\Debug\StringSort.pdb
+C:\Users\Pooja\source\repos\StringSort\StringSort\obj\Debug\StringSort.exe
+C:\Users\Pooja\source\repos\StringSort\StringSort\obj\Debug\StringSort.pdb

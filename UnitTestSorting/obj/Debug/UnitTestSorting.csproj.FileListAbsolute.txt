@@ -1,0 +1,16 @@
+C:\ozow\String-sort-master\String-sort-master\UnitTestSorting\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\ozow\String-sort-master\String-sort-master\UnitTestSorting\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\ozow\String-sort-master\String-sort-master\UnitTestSorting\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\ozow\String-sort-master\String-sort-master\UnitTestSorting\bin\Debug\UnitTestSorting.dll
+C:\ozow\String-sort-master\String-sort-master\UnitTestSorting\bin\Debug\UnitTestSorting.pdb
+C:\ozow\String-sort-master\String-sort-master\UnitTestSorting\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\ozow\String-sort-master\String-sort-master\UnitTestSorting\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\ozow\String-sort-master\String-sort-master\UnitTestSorting\bin\Debug\StringSort.exe
+C:\ozow\String-sort-master\String-sort-master\UnitTestSorting\bin\Debug\StringSort.pdb
+C:\ozow\String-sort-master\String-sort-master\UnitTestSorting\bin\Debug\StringSort.exe.config
+C:\ozow\String-sort-master\String-sort-master\UnitTestSorting\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\ozow\String-sort-master\String-sort-master\UnitTestSorting\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\ozow\String-sort-master\String-sort-master\UnitTestSorting\obj\Debug\UnitTestSorting.csprojAssemblyReference.cache
+C:\ozow\String-sort-master\String-sort-master\UnitTestSorting\obj\Debug\UnitTestSorting.csproj.CopyComplete
+C:\ozow\String-sort-master\String-sort-master\UnitTestSorting\obj\Debug\UnitTestSorting.dll
+C:\ozow\String-sort-master\String-sort-master\UnitTestSorting\obj\Debug\UnitTestSorting.pdb
